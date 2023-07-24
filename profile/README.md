@@ -1,10 +1,9 @@
 ## Hi there 👋
 
-🙋‍♀️ AI Library provides AI assistants. You can use pre-built assistants or use your own. \n
-🌈 Use AI Library's APIs to integrate AI into your own applications. Want to share it with the world? Give us a shoutout. \n
-👩‍💻 Find our API documentation on Postman. Get your API key from your AI Library account. \n
-🍿 Fun facts about us - we are too serious. \n
-🧙 Remember, please adhere to our Community Guidelines. \n
+🙋‍♀️ AI Library provides AI assistants. You can use pre-built assistants or use your own.  
+🌈 Use AI Library's APIs to integrate AI into your own applications. Want to share it with the world? Give us a shoutout.  
+👩‍💻 Find our API documentation on Postman. Get your API key from your AI Library account.  
+🧙 Remember, please adhere to our Community Guidelines.  
 
 <!--
 
