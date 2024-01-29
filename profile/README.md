@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-🙋‍♀️ AI Library provides AI assistants. You can use pre-built assistants or build your own.  
-🌈 Use AI Library's APIs to integrate AI into your own applications. Want to share it with the world? Give us a shoutout.  
-👩‍💻 Find our API documentation on Postman. Get your API key from your AI Library account.  
-🧙 Remember, please adhere to our Community Guidelines.  
+🙋‍♀️ AI Library is a no-code AI platform that enables teams, regardless of technical skill, to build AI solutions to power their most critical and unique workflows.  
+🌈 Check out our repositories and project to learn more about our products. Want to submit a bug or request a feature? Please create an issue. 
+👩‍💻 Want to work with us? Please send a cover note explaining your experience and interest at careers@ailibrary.ai 
 
 <!--
 
