@@ -6,6 +6,8 @@
 
 👩‍💻 Want to work with us? Please send a cover note explaining your experience and interest at careers@ailibrary.ai 
 
+🧙 We are currently working on open-source AI solutions that uses AI Library APIs. Want to get early access? Write to us at hello@ailibrary.ai
+
 <!--
 
 **Here are some ideas to get you started:**
