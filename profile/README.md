@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ AI Library is a no-code AI platform that enables teams, regardless of technical skill, to build AI solutions to power their most critical and unique workflows.  
+🙋‍♀️ We build tools to build AI applications. 
 
 🌈 Check out our repositories and projects to learn more about our products. Want to submit a bug or request a feature? Please create an issue. 
 
