@@ -4,7 +4,7 @@
 
 🌈 Check out our repositories and projects to learn more about our products. Want to submit a bug or request a feature? Please create an issue. 
 
-👩‍💻 Want to work with us? Please send a cover note explaining your experience and interest at careers@ailibrary.ai 
+👩‍💻 Want to work with us? Please send a cover note explaining your experience and interests at careers@ailibrary.ai 🍪🍪🍪 If you know Python or Nextjs really well, we want you.
 
 🧙 We are currently working on open-source AI solutions that uses AI Library APIs. Want to get early access? Write to us at hello@ailibrary.ai
 
